@@ -1,0 +1,7 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Java\\jdk\\jdk-17.0.8\\lib\\jrt-fs.jar"
+    ]
+}
